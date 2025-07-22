@@ -43,9 +43,6 @@ I am a passionate Full Stack Developer with a strong foundation in web developme
 - **Web Development Intern** — *Dabotics India Pvt. Ltd*  
   *July – August 2023*
 
-- **Operations Executive** — *Expo Stand Services*  
-  *May 2024 – Present (1 Year Experience)*  
-  - Client coordination, payment tracking, marketing & design liaison
 
 ---
 
@@ -58,7 +55,7 @@ I am a passionate Full Stack Developer with a strong foundation in web developme
 - Python, Django, Django REST Framework
 
 ### 🗃️ Database
-- PostgreSQL
+- PostgreSQL, Mysql
 
 ### 🔧 Tools & Platforms
 - Git, GitHub
@@ -69,7 +66,7 @@ I am a passionate Full Stack Developer with a strong foundation in web developme
 
 - 📧 Email: [sanjanasingh7631@gmail.com]
 - 🌐 Portfolio: [your-portfolio-link.com]
-- 💼 LinkedIn: [your-linkedin-profile]
+- 💼 LinkedIn: [(https://www.linkedin.com/in/sanjanasinghrajput/)]
 - 🐱 GitHub: [github.com/yourusername]
 
 ---
