@@ -65,7 +65,7 @@ I am a passionate Full Stack Developer with a strong foundation in web developme
 ## 📫 Let's Connect!
 
 - 📧 Email: [sanjanasingh7631@gmail.com]
-- 🌐 Portfolio: [your-portfolio-link.com]
+- 🌐 Portfolio: [(https://sanjanasinghrajput.netlify.app/)]
 - 💼 LinkedIn: [(https://www.linkedin.com/in/sanjanasinghrajput/)]
 - 🐱 GitHub: [github.com/yourusername]
 
